@@ -1,4 +1,4 @@
-# 👾 PRANAV ANANDA
+# 👾 PRANAV A
 
 <p align="center">
   <b>Builder • Full-Stack Developer • Security Enthusiast • Problem Solver</b>
